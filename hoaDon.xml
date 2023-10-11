@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DSHD>
+  <HoaDon>
+    <Loai>1</Loai>
+    <MS>HD001</MS>
+    <Khach>Nam</Khach>
+    <NgayLap>23/5/2016</NgayLap>
+    <Hang>
+      <MH>A92</MH>
+      <TenHang>Xang 92</TenHang>
+      <Gia>15.5</Gia>
+    </Hang>
+    <Soluong>20</Soluong>
+  </HoaDon>
+  <HoaDon>
+    <Loai>2</Loai>
+    <MS>HD002</MS>
+    <Khach>Anh</Khach>
+    <NgayLap>3/5/2016</NgayLap>
+    <Hang>
+      <MH>A95</MH>
+      <TenHang>Xang 95</TenHang>
+      <Gia>16.500</Gia>
+    </Hang>
+    <Soluong>50</Soluong>
+  </HoaDon>
+  <HoaDon>
+    <Loai>2</Loai>
+    <MS>HD003</MS>
+    <Khach>Vi</Khach>
+    <NgayLap>13/5/2017</NgayLap>
+    <Hang>
+      <MH>A95</MH>
+      <TenHang>Xang 95</TenHang>
+      <Gia>20.500</Gia>
+    </Hang>
+    <Soluong>5</Soluong>
+  </HoaDon>
+  <HoaDon>
+    <Loai>3</Loai>
+    <MS>HD004</MS>
+    <Khach>Bup</Khach>
+    <NgayLap>20/11/2022</NgayLap>
+    <Hang>
+      <MH>A95</MH>
+      <TenHang>Xang 95</TenHang>
+      <Gia>22.400</Gia>
+    </Hang>
+    <Soluong>11</Soluong>
+  </HoaDon>
+  <HoaDon>
+    <Loai>1</Loai>
+    <MS>HD005</MS>
+    <Khach>Hung</Khach>
+    <NgayLap>17/1/2023</NgayLap>
+    <Hang>
+      <MH>A95</MH>
+      <TenHang>Xang 95</TenHang>
+      <Gia>27.500</Gia>
+    </Hang>
+    <Soluong>18</Soluong>
+  </HoaDon>
+</DSHD>
