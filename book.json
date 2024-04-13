@@ -1,0 +1,62 @@
+[
+    {
+        "tenSach": "S\u00e1ch 2",
+        "tacGia": "Tr\u1ea7n Ho\u00e0ng Qu\u00e2n",
+        "soLuong": 3
+    },
+    {
+        "tenSach": "S\u00e1ch 3",
+        "tacGia": "Hu\u1ef3nh Tr\u1ecdng H\u00f9ng",
+        "soLuong": 7
+    },
+    {
+        "tenSach": "S\u00e1ch 4",
+        "tacGia": "Hu\u1ef3nh T\u1ea5n \u0110\u1ee9c",
+        "soLuong": 2
+    },
+    {
+        "tenSach": "S\u00e1ch 5",
+        "tacGia": "Tr\u1ea7n V\u0103n Nam",
+        "soLuong": 4
+    },
+    {
+        "tenSach": "S\u00e1ch 6",
+        "tacGia": "Tr\u1ea7n V\u0103n Nam",
+        "soLuong": 6
+    },
+    {
+        "tenSach": "S\u00e1ch 7",
+        "tacGia": "Ho\u00e0ng Th\u1ecb Vy",
+        "soLuong": 8
+    },
+    {
+        "tenSach": "S\u00e1ch 8",
+        "tacGia": "L\u00ea Minh S\u01a1n",
+        "soLuong": 1
+    },
+    {
+        "tenSach": "S\u00e1ch 9",
+        "tacGia": "Ho\u00e0ng Th\u1ecb Giang",
+        "soLuong": 9
+    },
+    {
+        "tenSach": "S\u00e1ch 10",
+        "tacGia": "Nguy\u1ec5n T\u1ea5n An",
+        "soLuong": 3
+    },
+    {
+        "tenSach": "S\u00e1ch 11",
+        "tacGia": "Ph\u1ea1m T\u1ea5n Minh",
+        "soLuong": 6
+    },
+    {
+        "tenSach": "S\u00e1ch 12",
+        "tacGia": "Tr\u1ea7n Ho\u00e0ng Minh",
+        "soLuong": 2
+    },
+    {
+        "tenSach": "python3 -u \"/Users/thanhbup/Desktop/ontappythonSach/index.py\"",
+        "tacGia": "1",
+        "soLuong": 2
+    }
+]
